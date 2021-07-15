@@ -1,4 +1,5 @@
 surf - simple webkit-based browser
+This fork contains simple patch that prevents X11 BadWindow error
 ==================================
 surf is a simple Web browser based on WebKit/GTK+.
 
